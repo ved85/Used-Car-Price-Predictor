@@ -4,4 +4,8 @@ A GUI program to predict used car price using supervised machine learning techni
 
 Application Demo -->
 
-![image](https://github.com/user-attachments/assets/9405548a-880e-4f4f-a0d3-c5ab3366adec)
+
+
+
+https://github.com/user-attachments/assets/7491aa0e-751f-4742-8825-677bb8f6e550
+
